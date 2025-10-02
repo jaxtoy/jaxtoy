@@ -21,6 +21,7 @@
     🟢 = You can talk to me
   
   ⛔ = May be busy or not in the mood to talk 
+  
   🌙 = offtab/busy 
   
   I like C+H but most of the time I'm with friends and I'm too shy to approach others. 
