@@ -7,7 +7,7 @@
 
   ‎![](https://komarev.com/ghpvc/?username=jaxtoy&color=4D6A75&style=flat&label=VERY+REAL+FANS&base=476)
 
-— [PrnsCC](https://pronouns.cc/@jaxtoy) — [Rentry](https://rentry.co/jaxful) — [Guestbook](https://jaxtoy.atabook.org) —
+— [PrnsCC](https://pronouns.cc/lapislazuIi) — [Rentry](https://rentry.co/jaxful) — [Guestbook](https://jaxtoy.atabook.org) —
 
 <details>
     <summary>[Click here] About Me!!!!</summary>
