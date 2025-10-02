@@ -20,9 +20,9 @@
     <summary>[Click here] Pony Town info </summary>
     🟢 = You can talk to me
   
-  ⛔ = May be busy or not in the mood to talk 
+  ⛔ = May be busy/not in the mood to talk
   
-  🌙 = offtab/busy 
+  🌙= offtab/busy 
   
   I like C+H but most of the time I'm with friends and I'm too shy to approach others. 
   
