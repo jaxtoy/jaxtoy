@@ -1,6 +1,7 @@
 <p align="center">
- <a href="https://github.com/jaxtoy"">
-  <img src="https://github.com/user-attachments/assets/2e88a2a7-546e-4c91-af25-bef5de476bd0">
+ <a href="https://github.com/jaxtoy">
+  <img src="https://github.com/user-attachments/assets/986d3308-018d-4d09-bc2a-7d3fdc8fc403">
+
  </a>
 </p>
 
