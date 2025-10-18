@@ -5,7 +5,10 @@
  </a>
 </p>
 
-hi hello im michael or jax or sapphire or garnet or uzi or whatever. my many names. yes. i'm 15 i use he/they pronouns read my [rentry](https://rentry.co/jaxful)
+<p align="center">
+hi hello im michael or jax or sapphire or garnet or uzi or whatever. my many names. yes. i'm 15 i use he/they pronouns read this https://rentry.co/jaxful
+</p>
+
 
 
 <p align="center">
