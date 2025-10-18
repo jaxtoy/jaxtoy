@@ -5,9 +5,12 @@
  </a>
 </p>
 
+hi hello im michael or jax or sapphire or garnet or uzi or whatever. my many names. yes. i'm 15 i use he/they pronouns read my [rentry](https://rentry.co/jaxful)
+
+
 <p align="center">
   <a href="https://github.com/komarev">
-    <img src="https://komarev.com/ghpvc/?username=jaxtoy&color=9F2476&style=flat&label=VERY+REAL+FANS&base=476">
+    <img src="https://komarev.com/ghpvc/?username=jaxtoy&color=grey&style=flat-square&label=MY+VERY+REAL+FANS&base=476">
   </a>
 </p>
 
