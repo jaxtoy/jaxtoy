@@ -21,9 +21,12 @@ my stupid safe server fandom area
 
 <p align="center">
  <a href="https://github.com/jaxtoy">
-<img src="https://github.com/user-attachments/assets/915a9494-f1ee-4d2d-b3e1-a5e4c4caad58" />
+<img src="https://github.com/user-attachments/assets/c3d9f150-9599-435b-983f-f22530ad97c1" />
  </a>
 </p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/komarev">
