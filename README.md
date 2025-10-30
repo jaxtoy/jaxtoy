@@ -1,3 +1,4 @@
+
 [pfp credits](https://www.tumblr.com/leorimon/797768682446241792/them?source=share)
 <p align="center">
  <a href="https://tenor.com">
@@ -21,7 +22,7 @@ my stupid safe server fandom area
 
 <p align="center">
  <a href="https://github.com/jaxtoy">
-<img src="https://github.com/user-attachments/assets/c3d9f150-9599-435b-983f-f22530ad97c1" />
+<img src="https://github.com/user-attachments/assets/7d33caec-d0e7-4e74-a3a2-787022dbb264" />
  </a>
 </p>
 
