@@ -1,7 +1,7 @@
 [pfp credits](https://www.tumblr.com/leorimon/797768682446241792/them?source=share)
 <p align="center">
- <a href="https://github.com/jaxtoy">
-  <img src="https://github.com/user-attachments/assets/986d3308-018d-4d09-bc2a-7d3fdc8fc403">
+ <a href="https://tenor.com">
+  <img src="https://media1.tenor.com/m/08lNWyTCGL8AAAAC/harpyluz-the-owl-house.gif">
 
  </a>
 </p>
